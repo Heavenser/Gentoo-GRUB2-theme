@@ -2,8 +2,6 @@
 
 My flat GRUB2 theme.
 
-<img src="./preview.png" width="400">
-
 ## Font
 
 The font in the boot menu can't be changed because of GRUB.
