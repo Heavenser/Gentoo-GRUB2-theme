@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 
 # Arch-Silence GRUB2 theme
 
 My flat GRUB2 theme.
 
 <img src="./preview.png" width="400">
+=======
+# Gentoo-GRUB2-theme
+
+My Gentoo GRUB2 theme.
+>>>>>>> 359d99ee01ff3815f0847553791fb68999f5c78c
 
 ## Font
 
@@ -18,4 +24,8 @@ If not explicitly stated otherwise all the files in this project are distributed
 
 ## Author
 
+<<<<<<< HEAD
 Filippo Ghibellini
+=======
+Heavenser Lee
+>>>>>>> 359d99ee01ff3815f0847553791fb68999f5c78c
